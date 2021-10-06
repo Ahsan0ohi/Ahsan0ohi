@@ -23,5 +23,5 @@ Skills: CPP/C/Java
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
-![Profile views](https://gpvc.arturio.dev/Ahsan0ohi)  
+![Profile views](https://gpvc.arturio.dev/Ahsan0ohi) 
 <a href="https://github.com/Ahsan0ohi?tab=followers"><img src="https://img.shields.io/github/followers/MHOPI98?label=Followers&style=social" alt="GitHub Badge"></a>
