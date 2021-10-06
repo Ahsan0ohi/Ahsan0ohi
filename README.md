@@ -19,7 +19,7 @@ Skills: CPP/C/Java
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
+![GitHub metrics](https://metrics.lecoq.io/Ahsan0ohi)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
