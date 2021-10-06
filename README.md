@@ -13,13 +13,13 @@ Skills: CPP/C/Java
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahsan0ohi)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan0ohi)](https://github.com/Ahsan0ohi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Ahsan0ohi/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsan0ohi&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsan0ohi&&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan0ohi)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ahsan0ohi)  
+![GitHub metrics](https://metrics.lecoq.io/Ahsan0ohi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahsan0ohi)  
 
